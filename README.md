@@ -17,7 +17,7 @@ We applied the **data science process** end-to-end:
 ---
 
 ## Key Results
-- **H1N1 Vaccine Uptake** – [Insert final percentage & key finding]  
+- **H1N1 Vaccine Uptake** –  
 - **Seasonal Flu Vaccine Uptake** – 53.4% did not take the vaccine, while 46.6% did.  
 - **Important Features** – Age group, education, income, and behavioral scores strongly influenced vaccination decisions.  
 - **Best Model** – Random Forest Classifier provided the best trade-off between accuracy and interpretability.  
@@ -32,9 +32,9 @@ We applied the **data science process** end-to-end:
 
 ---
 
-## 📑 Links
+## 
 
-- 🔗 [Dataset Source – NHIS / Kaggle Flu Vaccine Dataset](https://www.kaggle.com/c/h1n1-flu-vaccines-prediction/data)  
+- [Dataset Source – NHIS / Kaggle Flu Vaccine Dataset](https://www.kaggle.com/c/h1n1-flu-vaccines-prediction/data)  
 
 ---
 
